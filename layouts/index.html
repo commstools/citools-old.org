@@ -6,8 +6,10 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="/toolkits/" role="button">{{ i18n "get-started" }}</a>
+      <!--
       <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+      -->
     </div>
   </div>
 </section>
@@ -24,7 +26,7 @@
         </div>
         <div class="col-lg-5">
           <h2 class="h4">Companies</h2>
-          <p></p>
+          <p>Adopt modern infrastructure for PR excellence and reduced risk.</p>
         </div>
         <div class="col-lg-5">
           <h2 class="h4">Organizations</h2>
@@ -34,15 +36,15 @@
       <div class="row justify-content-center text-center">
         <div class="col-lg-5">
           <h2 class="h4">Governments</h2>
-          <p>Reduce risk and </p>
+          <p>Formalize communications standards for fairness and accountability.</p>
         </div>
         <div class="col-lg-5">
           <h2 class="h4">Influencers</h2>
-          <p>Use your influence for good and </p>
+          <p>Be a better steward of your influence and the world you help create.</p>
         </div>
         <div class="col-lg-5">
           <h2 class="h4">Everyone</h2>
-          <p>Champion </p>
+          <p>Champion a web that works for all.</p>
         </div>
       </div>
     </div>
