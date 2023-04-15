@@ -75,6 +75,11 @@
   url = "/resources/"
   weight = 40
 
+ [[main]]
+  name = "Badge"
+  url = "/badge/"
+  weight = 80
+
 # [[main]]
 #  name = "Get Started"
 #  weight = 30
