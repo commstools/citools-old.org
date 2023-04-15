@@ -11,4 +11,8 @@ toc: true
 weight: 1000
 ---
 
-Compliance with the principles, guidelines, and standards in this toolkit is voluntary. Organizations may freely use this badge without permission
+Compliance with the principles, guidelines, and standards in this toolkit is voluntary. This image is copyright. Displaying of this badge 
+
+Communications integrity compliant
+
+Note the communications integrity badge is copyright and only permitted for use if 
