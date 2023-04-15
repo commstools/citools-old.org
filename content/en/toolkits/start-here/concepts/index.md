@@ -38,5 +38,8 @@ In modern, high-choice information environments, this kind of decision, whether 
 ## Principles vs. standards
 Rules are for people who don’t understand principles. 
 
+## Public-facing
+The guides presented on citools are intended to be used in any situation where **how** inforamtion is communicated matters. That is always the case for public-facing communications, as well as with official internal organizational communications. It may or may not be the case for private conversations among individuals or small groups.
+
 
 
