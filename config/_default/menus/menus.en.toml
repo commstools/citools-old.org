@@ -36,12 +36,12 @@
 
  [[main]]
    name = "About"
-   url = "/about"
+   url = "/about/what-is-citools"
    weight = 5
 
  [[main]]
    name = "Toolkits"
-   url = "/toolkits"
+   url = "/toolkits/start-here/overview"
    weight = 7
 
 # [[main]]
@@ -75,10 +75,10 @@
   url = "/resources/"
   weight = 40
 
- [[main]]
-  name = "Badge"
-  url = "/badge/"
-  weight = 80
+# [[main]]
+#  name = "Badge"
+#  url = "/badge/"
+#  weight = 80
 
 # [[main]]
 #  name = "Get Started"
