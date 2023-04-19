@@ -11,7 +11,7 @@ weight: 50
 ---
 
 ## Introduction
-
+While there are some common considerations that apply in all contexts, certain topics have unique features that require special attention.
 
 ## Standards
 At the core of each toolkit is a set of standards. 

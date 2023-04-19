@@ -12,16 +12,11 @@ toc: true
 ---
 
 ### What is CITools
-CITools is a collection of tools and resources for improving how information is shared in modern communication environments. While there are some common considerations that apply in all contexts, certain topics have unique features that require special attention. CItools provides a generaized structure for considering communication integrity, as well as a collection of toolkits for specific topics.
+CITools is a collection of tools and resources for improving how information is shared in modern communication environments. It provides a generalized approach to understanding and evaluating communication integrity, as well as a collection of toolkits for optimizing communications related to specific topics.
 
 ### What is communication integrity
-Communication integrity simply refers to the quality of being fit for a stated purpose. To evaluate the integrity of a particular communication, one can ask the question, "does it help achieve its stated aim?"
+Communication integrity refers to a message or activity's quality of fitness for a stated purpose. To evaluate the integrity of a particular communication activity, one can simply ask: "does it help achieve the stated aim of the communicator?" When there is a significant difference between such , the particular activity is said to be of low CI. It's important to note that this outcome is not always intentional. See the [FAQ](/about/faq) for examples and causes of low-CI activities.
 
-Examples of low CI activities:
-
-1. A politician claims to promote peace, but utilizes rhetoric and messaging that encourages conflict
-2. A food-tech company or organization states its mission is to mainstream adoption of a new technology, but in practice utilizes community-specific messaging that alienates mainstream audiences
-
-### Structure
-Each toolkit begins with an overview of concepts that are specific its subject matter. At the heart of each toolkit is a code of practice--a set of standards that can be utilized as is or adapted to the needs of an organization. Each toolkit also contains modules--components that can be updated independently of the main document--and examples to help users see the toolkit in action. Finally, each toolkit contains an FAQ section where users can reference common issues and solutions, as well as ask questions and contribute examples they think will help other users.
+### Structure of CITools
+CITools is designed as a collection of toolkits. Each toolkit begins with an overview of concepts that are specific its subject matter. At the heart of each toolkit is a code of practice--a set of standards that can be utilized as-is or adapted to the needs of an organization. Each toolkit also contains modules--components that can be updated independently of the main document--and examples to help users see the toolkit in action. Finally, each toolkit contains an FAQ section where users can reference common questions and answers, as well as ask questions and contribute examples they think will help other users.
 

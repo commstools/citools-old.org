@@ -28,6 +28,8 @@ In modern, high-choice information environments, this kind of decision, whether 
 
 ## Revealed intent
 Refers to the objective or target audience revealed by communications decisions, which may be at odds with a stated objective.
+
+When the revealed intent is significantly different from the communicator's stated aim,
 ```
 Example: An organization states its mission is to mainstream the adoption of a potentially revolutionary but controversial new technology, but in practice, engages in communications that contribute to polarization and alienate mainstream audiences. This may be due to social incentives of team members seeking recognition in their own community. This is an example of revealed priorities—in this case, pursuing recognition in their community, even at the cost of progress for their stated objectives. 
 ```
@@ -35,7 +37,7 @@ Example: An organization states its mission is to mainstream the adoption of a p
 Example: an organization states a goal of influencing policy, but in practice amplifies voices online that add political risk and make its topics more difficult for policy makers to approach.
 ```
 
-
+## Political risk
 
 ## Principles vs. standards
 Rules are for people who don’t understand principles. 
