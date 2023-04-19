@@ -4,7 +4,7 @@
 title = "CITools"
 titleSeparator = "-"
 titleAddition = "Standards for a better web"
-description = "Communications integrity toolkits to build accuracy and neutrality into modern information environments"
+description = "Communication integrity toolkits to build accuracy and neutrality into modern information environments"
 
 ## Documentation
 # docsVersion = "0.3"
@@ -95,7 +95,7 @@ lastMod = false
   instantPage = true
   flexSearch = true
   searchSectionsShow = []
-  searchSectionsIndex = []
+  searchSectionsIndex = ["docs"]
   darkMode = true
   bootStrapJs = true
   breadCrumb = false

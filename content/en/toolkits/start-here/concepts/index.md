@@ -18,6 +18,14 @@ Refers to the aggregate context and character of how information is presented.
 
 ```Framing communications is like building a house: the location, architecture, materials, windows, doors, colors, quality of construction, etc., all contribute to perception, feeling, and understanding, regardless of what books are on the bookshelf. Similarly, publication, author, affiliations, language, tone, sources, and style all contribute to how information is received and understood, regardless of the information itself.```
 
+## Neutrality
+A rigorous approach to neutrality means diligent implementation of communications standards and careful monitoring of communications outputs. In modern information environments, incentives to compromise are constant, and seemingly small compromises add up. 
+
+```Example: A blog article uses mostly scientific publications as references, but includes one or two links to news articles from activist or highly partisan publications. The editor allows it to pass since they are only concerned with the raw information, not how it is framed or presented.
+
+In modern, high-choice information environments, this kind of decision, whether intentional or unwitting, provides implicit endorsement of all sources. 
+```
+
 ## Revealed intent
 Refers to the objective or target audience revealed by communications decisions, which may be at odds with a stated objective.
 ```
@@ -27,13 +35,7 @@ Example: An organization states its mission is to mainstream the adoption of a p
 Example: an organization states a goal of influencing policy, but in practice amplifies voices online that add political risk and make its topics more difficult for policy makers to approach.
 ```
 
-## Rigorous neutrality
-A rigorous approach to neutrality means diligent implementation of communications standards and careful monitoring of communications outputs. In modern information environments, incentives to compromise are constant. Small compromises add up.
 
-```Example: A blog article uses mostly scientific publications as references, but includes one or two links to news articles from activist or highly partisan publications. The editor allows it to pass since they are only concerned with the raw information, not how it is framed or presented.
-
-In modern, high-choice information environments, this kind of decision, whether intentional or unwitting, provides implicit endorsement of all sources. 
-```
 
 ## Principles vs. standards
 Rules are for people who don’t understand principles. 

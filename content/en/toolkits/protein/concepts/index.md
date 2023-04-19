@@ -11,11 +11,16 @@ toc: true
 weight: 50
 ---
 
-The term protein has multiple meanings. In chemistry, it is used to refer to a class of molecule. In nutrition, protein refers to one of the three energy-providing macronutrients: protein, fats, and carbohydrates. This toolkit deals with protein the nutrient.
+## 1 Meaning
+The term protein has multiple meanings. In chemistry, it refers to a class of molecule. In nutrition, protein refers to one of the three macronutrients: protein, fats, and carbohydrates. This toolkit deals with protein the nutrient.
 
-### Concept 1: Protein is a nutrient, not a food.
-Protein is found in nearly all foods. However, protein is often colloqually--and incorrectly--used to refer to protein-rich foods, usually of animal origin. This may be due to a combination nutritional illiteracy or an attempt to illicity confirmation bias in audiences by associating certain foods with desirable traits in scientific terms.
+### 1.1 Protein is a nutrient, not a food
+Protein is found in nearly all foods. However, the term "protein" is often used incorrectly to refer to certain protein-rich foods. This may be due to nutritional illiteracy, an attempt to elicit confirmation bias by using scientific terms, or a combination of such factors.
 
-#### Example
+{{< alert icon="👉" >}}
+See example 1.1 for a case when misuse of "protein" led to a leading online media outlet publishing false information in a major feature.
+{{< /alert >}}
+
+
 
 
