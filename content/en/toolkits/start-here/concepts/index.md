@@ -11,12 +11,22 @@ weight: 100
 ---
 
 ## Signaling
-Refers to indirect methods of communicating a position on a topic, typically by use of language, terminology, tone, source publications, personalities, authors, quotes, and online interaction.
+Refers to indirect methods of communicating a position on a topic.
+
+Communicators insert social signals into their messaging in a number of ways:
+* Tone and terminology
+* The publications, personalities, and authors one chooses to reference
+* Online interactions in the form of likes, comments, and shares
+* Visual imagery, including display of logos that represents public-facing partnerships
+
+Modern information environments allow for highly granular approaches to signialing, ranging from crude and overt to subtle and covert.
 
 ## Framing
 Refers to the aggregate context and character of how information is presented.
 
-```Framing communications is like building a house: the location, architecture, materials, windows, doors, colors, quality of construction, etc., all contribute to perception, feeling, and understanding, regardless of what books are on the bookshelf. Similarly, publication, author, affiliations, language, tone, sources, and style all contribute to how information is received and understood, regardless of the information itself.```
+Similar to signaling, modern communicators make use of all available mediums to frame the topics on which they focus. However, the absence, presence, or extent of social signaling may be just one part of how a particular topic is framed by a communicator. Framing can involve selective or strategic use of information or narrative to impact how information is received. 
+
+{{<alert icon="👉">}}Framing communications is like building a house: the location, architecture, materials, windows, doors, colors, quality of construction, etc., all contribute to perception, feeling, and understanding, regardless of what books are on the bookshelf. Similarly, publication, author, affiliations, language, tone, sources, and style all contribute to how information is received and understood, regardless of the information itself.{{</alert>}}
 
 ## Neutrality
 A rigorous approach to neutrality means diligent implementation of communications standards and careful monitoring of communications outputs. In modern information environments, incentives to compromise are constant, and seemingly small compromises add up. 
@@ -38,9 +48,15 @@ Example: an organization states a goal of influencing policy, but in practice am
 ```
 
 ## Political risk
+Refers to the 
+
+## Social barriers
+Refers
 
 ## Principles vs. standards
 Rules are for people who don’t understand principles. 
+
+## Tribalism
 
 ## Public-facing
 The guides presented on citools are intended to be used in any situation where **how** inforamtion is communicated matters. That is always the case for public-facing communications, as well as with official internal organizational communications. It may or may not be the case for private conversations among individuals or small groups.

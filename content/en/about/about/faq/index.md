@@ -11,18 +11,17 @@ weight: 800
 toc: true
 ---
 
-### What are some examples of low CI activities:
+### Eexamples of low-CI activities
 1. A politician claims to promote peace, but utilizes rhetoric and messaging that encourages conflict
-2. A company or organization states its mission is to improve sustainability of an industry, but in practice utilizes community-specific messaging that alienates mainstream audiences
-3. An online influencer claims to champion a particular cause, but in practice uses it to promote his or her own interests
+2. A company or organization claims an ambitious mission of broad impact but in practice utilizes polarizing, community-specific messaging that hinders such impact
+4. A team member organizes a partnership or communication campaign that advances their own personal or career interests at the cost of optimal positioning for their organization
 
-
-### How does communication integrity get compromised?
-Communication integrity can be compromised in more than one way:
+### Common ways CI is compromised
+Communication integrity can be compromised in more than one way.
 
 * disingenuous intent of the communicator
 * social or commercial pressues or incentives
-* lack of expertise on a message's subject matter
+* lack of expertise in a message's subject matter
 * failure of organizations to define and implement communications standards
 
-In many cases, low CI messaging is due to a combination of these factors.
+In many cases, low-CI messaging is due to a combination of these factors.
