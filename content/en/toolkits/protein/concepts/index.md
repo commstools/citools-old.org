@@ -21,6 +21,10 @@ Protein is found in nearly all foods. However, the term "protein" is often used 
 See example 1.1 for a case when misuse of "protein" led to a leading online media outlet publishing false information in a major feature.
 {{< /alert >}}
 
+## Political risk
+Refers broadly to hazards that leaders may face in their careers, business, or policy objectives, as well as their probabilities.
 
+## Social barriers
+Refers to social and cultural resistance to engage or give fair consideration to a topic.
 
-
+Modern information environments reward communications that build social barriers around culturally sensitive topics. 
