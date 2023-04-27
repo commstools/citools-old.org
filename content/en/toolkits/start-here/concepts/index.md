@@ -10,6 +10,7 @@ type: docs
 weight: 100
 ---
 
+
 ## Signaling
 Indirect methods of communicating a position on a topic.
 {{<alert>}}
@@ -33,10 +34,13 @@ Framing can involve selective or strategic use of information or narrative to im
 Diligent implementation of standards and careful monitoring of communication outputs.
 {{<alert>}}
 Companies and organizations that are otherwise neutral may appear to not to be if their communication channels become populated with non-neutral messaging. This may occur due to an absence of communication standards or lax implementation.
-{{</alert>}}  
+{{</alert>}}
+A rigorous approach to neutrality does not mean merely implementing standards in one's own channels. It also means maintaining a strict firewall between your organization and those that contribute to a polarized or tribalistic information environment.
+
+Recall, small interactions such as likes, shares, and comments on social media are communication outputs. 
 
 ## Revealed intent
-An objective that is demonstrated or *revealed* by a communication activity, which may be at odds with the communicator's stated mission or purpose.
+The objective that is demonstrated or *revealed* by a communication activity, which may be different from the communicator's stated mission, purpose, or priorities.
 
 ## Principles
 Conceptually or strategically fundamental statements.
@@ -56,7 +60,7 @@ The guides presented on citools are intended to be used in any situation for whi
 {{<alert icon="👉">}}
 Example: A blog article uses mostly scientific publications as references, but includes one or two links to news articles from activist or highly partisan publications. The editor allows it to pass since they are only concerned with the raw information, not how it is framed or presented.
 
-In modern, high-choice information environments, this kind of decision, whether intentional or unwitting, provides implicit endorsement of all sources. 
+In modern, high-choice information environments, this kind of decision, whether intentional or unwitting, provides implicit endorsement of all sources.     
 {{</alert>}}
 
 {{<alert icon="👉">}}Framing communications is like building a house: the location, architecture, materials, windows, doors, colors, quality of construction, etc., all contribute to perception, feeling, and understanding, regardless of what books are on the bookshelf. Similarly, publication, author, affiliations, language, tone, sources, and style all contribute to how information is received and understood, regardless of the information itself.{{</alert>}}
