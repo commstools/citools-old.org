@@ -1,5 +1,5 @@
 ---
-title: "Concepts"
+title: "Glossary"
 description: ""
 lead: ""
 date: 2022-01-25T14:41:21+01:00
@@ -11,7 +11,7 @@ toc: true
 weight: 50
 ---
 
-## 1 Meaning
+## 1 Protein
 The term protein has multiple meanings. In chemistry, it refers to a class of molecule. In nutrition, protein refers to one of the three macronutrients: protein, fats, and carbohydrates. This toolkit deals with protein the nutrient.
 
 ### 1.1 Protein is a nutrient, not a food
