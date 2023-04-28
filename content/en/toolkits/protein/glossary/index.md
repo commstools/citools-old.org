@@ -18,7 +18,7 @@ Protein has multiple meanings. In chemistry, it refers to a class of molecule. I
 Protein is found in nearly all foods. However, the term "protein" is often used incorrectly to refer to certain protein-rich foods. This may be due to nutritional illiteracy, an attempt to elicit confirmation bias by using scientific terms, or a combination of such factors.
 
 {{< alert icon="👉" >}}
-See [this example](/toolkits/protein/examples#protein-is-a-nutrient-not-a-food) for a case when misuse of "protein" caused a mainstream media outlet to publish false and misleading information in a major feature--including its subtitle.
+See [this example](/toolkits/protein/examples#protein-is-a-nutrient-not-a-food) for a case when misuse of "protein" caused a mainstream media outlet to publish false and misleading information in a major feature--including in its subtitle.
 {{< /alert >}}
 
 ## Signaling
