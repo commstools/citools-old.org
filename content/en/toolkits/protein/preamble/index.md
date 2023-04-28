@@ -17,4 +17,4 @@ This toolkit is designed specifically for that purpose.
 
 Community-specific messaging and polarizing dialogue are rewarded in modern media, social media, and collaborative information environments. Likes, shares, and comments provide quick gratification, but only superficial validation of a communication strategy. What seems good for a communicator in the short term is often at odds with good practice for longer-term, broader success and impact.
 
-But there does not need to be such misalignment between individual and sector-wide interests. By adopting simple standards and best practices for communications around protein, companies, organizations, publications, policy makers, and others can demonstrate genuine commitment to their work and build a industry that works better for everyone.
+But there does not need to be such misalignment between individual and sector-wide interests. By adopting simple standards and best practices for communications around protein, companies, organizations, publications, policy makers, and others can demonstrate genuine commitment to their work and build an industry that works better for everyone.

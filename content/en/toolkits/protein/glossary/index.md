@@ -12,14 +12,45 @@ weight: 50
 ---
 
 ## 1 Protein
-The term protein has multiple meanings. In chemistry, it refers to a class of molecule. In nutrition, protein refers to one of the three macronutrients: protein, fats, and carbohydrates. This toolkit deals with protein the nutrient.
+Protein has multiple meanings. In chemistry, it refers to a class of molecule. In nutrition, protein refers to one of the three macronutrients along with fats and carbohydrates. This toolkit deals with protein the nutrient.
 
 ### 1.1 Protein is a nutrient, not a food
 Protein is found in nearly all foods. However, the term "protein" is often used incorrectly to refer to certain protein-rich foods. This may be due to nutritional illiteracy, an attempt to elicit confirmation bias by using scientific terms, or a combination of such factors.
 
 {{< alert icon="👉" >}}
-See example 1.1 for a case when misuse of "protein" led to a leading online media outlet publishing false information in a major feature.
+See example 1.1 for a case when misuse of "protein" caused a mainstream media outlet to publish false and misleading information in a major feature.
 {{< /alert >}}
+
+## Signaling
+Indirect methods of communicating a position on a topic.
+
+Modern information environments allow for highly granular approaches to signialing, ranging from crude and overt to subtle and covert. Communicators insert social signals into their messaging in a number of ways:
+
+* Tone and terminology
+* The publications, personalities, and authors they choose to reference
+* Online interactions in the form of likes, comments, and shares
+* Visual imagery, including display of logos and other symbols
+
+## Framing
+The aggregate context and character of how information is presented.
+
+Framing can involve selective or strategic use of information or narrative to impact how information is received. Similar to signaling, modern communicators make use of all available mediums to frame the topics on which they focus. However, the absence, presence, or extent of social signaling may be just one part of how a particular topic is framed by a communicator.
+
+## Revealed intent
+The objective that is demonstrated or *revealed* by a communication activity, which may be different from the communicator's stated mission, purpose, or priorities.
+
+"Talk is cheap... Actions speak louder than words... Put your money where your mouth is." These expressions all refer to a common phenomenon: Behavior often reveals different motivations, values, and priorities than what is said in conversations, surveys, interviews, op-eds, speeches, presentations, and mission statements. In fact, there is an entire discipline called microeconomics that exists largely to study how actors in any system make decisions by modeling and observing what they do, rather than merely what they say.
+
+In order to effectively utilze this toolkit, one must practice evaluating disparities between revealed intentions or priorities and those stated by the communicating individual or organization.
+
+## Rigorous neutrality
+Diligent implementation of standards and careful monitoring of communication outputs.
+
+Companies and organizations that are otherwise neutral may appear to not to be if their communication channels become populated with non-neutral messaging. This may occur due to an absence of communication standards or lax implementation.
+
+A rigorous approach to neutrality does not mean merely implementing standards in one's own channels. It also means maintaining a strict firewall between your organization and those that contribute to a polarized or tribalistic information environment.
+
+Recall, small interactions such as likes, shares, and comments on social media are communication outputs. 
 
 ## Political risk
 Refers broadly to hazards that leaders may face in their careers, business, or policy objectives, as well as their probabilities.
@@ -28,37 +59,6 @@ Refers broadly to hazards that leaders may face in their careers, business, or p
 Refers to social and cultural resistance to engage or give fair consideration to a topic.
 
 Modern information environments reward communications that build social barriers around culturally sensitive topics. 
-
-## Signaling
-Indirect methods of communicating a position on a topic.
-{{<alert>}}
-Communicators insert social signals into their messaging in a number of ways:
-
-* Tone and terminology
-* The publications, personalities, and authors they choose to reference
-* Online interactions in the form of likes, comments, and shares
-* Visual imagery, including display of logos that represents public-facing partnerships
-
-Modern information environments allow for highly granular approaches to signialing, ranging from crude and overt to subtle and covert.
-{{</alert>}}
-
-## Framing
-The aggregate context and character of how information is presented.
-{{<alert>}}
-Framing can involve selective or strategic use of information or narrative to impact how information is received. Similar to signaling, modern communicators make use of all available mediums to frame the topics on which they focus. However, the absence, presence, or extent of social signaling may be just one part of how a particular topic is framed by a communicator.
-{{</alert>}}  
-
-## Rigorous neutrality
-Diligent implementation of standards and careful monitoring of communication outputs.
-{{<alert>}}
-Companies and organizations that are otherwise neutral may appear to not to be if their communication channels become populated with non-neutral messaging. This may occur due to an absence of communication standards or lax implementation.
-{{</alert>}}
-A rigorous approach to neutrality does not mean merely implementing standards in one's own channels. It also means maintaining a strict firewall between your organization and those that contribute to a polarized or tribalistic information environment.
-
-Recall, small interactions such as likes, shares, and comments on social media are communication outputs. 
-
-## Revealed intent
-The objective that is demonstrated or *revealed* by a communication activity, which may be different from the communicator's stated mission, purpose, or priorities.
 
 ## Principles
 Conceptually or strategically fundamental statements.
