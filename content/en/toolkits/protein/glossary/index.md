@@ -11,14 +11,14 @@ toc: true
 weight: 50
 ---
 
-## 1 Protein
+## Protein
 Protein has multiple meanings. In chemistry, it refers to a class of molecule. In nutrition, protein refers to one of the three macronutrients along with fats and carbohydrates. This toolkit deals with protein the nutrient.
 
-### 1.1 Protein is a nutrient, not a food
+### Protein is a nutrient, not a food
 Protein is found in nearly all foods. However, the term "protein" is often used incorrectly to refer to certain protein-rich foods. This may be due to nutritional illiteracy, an attempt to elicit confirmation bias by using scientific terms, or a combination of such factors.
 
 {{< alert icon="👉" >}}
-See example 1.1 for a case when misuse of "protein" caused a mainstream media outlet to publish false and misleading information in a major feature.
+See [this example](/toolkits/protein/examples#protein-is-a-nutrient-not-a-food) for a case when misuse of "protein" caused a mainstream media outlet to publish false and misleading information in a major feature--including its subtitle.
 {{< /alert >}}
 
 ## Signaling
@@ -37,7 +37,7 @@ The aggregate context and character of how information is presented.
 Framing can involve selective or strategic use of information or narrative to impact how information is received. Similar to signaling, modern communicators make use of all available mediums to frame the topics on which they focus. However, the absence, presence, or extent of social signaling may be just one part of how a particular topic is framed by a communicator.
 
 ## Revealed intent
-The objective that is demonstrated or *revealed* by a communication activity, which may be different from the communicator's stated mission, purpose, or priorities.
+The objective that is demonstrated or *revealed* by a communication activity.
 
 "Talk is cheap... Actions speak louder than words... Put your money where your mouth is." These expressions all refer to a common phenomenon: Behavior often reveals different motivations, values, and priorities than what is said in conversations, surveys, interviews, op-eds, speeches, presentations, and mission statements. In fact, there is an entire discipline called microeconomics that exists largely to study how actors in any system make decisions by modeling and observing what they do, rather than merely what they say.
 
