@@ -52,10 +52,13 @@ A rigorous approach to neutrality does not mean merely implementing standards in
 
 Recall, small interactions such as likes, shares, and comments on social media are communication outputs. 
 
-## Political risk
-Refers broadly to hazards that leaders may face in their careers, business, or policy objectives, as well as their probabilities.
+## Risk
+Refers broadly to both hazards and the probabilities of their occurance.
 
-## Social barriers
+### Political risk
+Refers to the risk that leaders may face in their careers, business, or policy objectives by engaging on an issue. 
+
+### Social risk
 Refers to social and cultural resistance to engage or give fair consideration to a topic.
 
 Modern information environments reward communications that build social barriers around culturally sensitive topics. 
