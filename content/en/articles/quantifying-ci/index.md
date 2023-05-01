@@ -24,6 +24,4 @@ Formally, we can define communication integrity as the weighted sum of variables
 - author
 - each reference cited
 - each personality and organization quoted or referenced
-- 
-
-
+- How many clicks to arrive on partisan content
