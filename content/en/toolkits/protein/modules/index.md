@@ -33,4 +33,6 @@ Terms that are strictly excluded from communications.
 {.table-striped}
 
 ### Vegan
-The term vegan is used by activists and marketers in efforts to appeal to the vegan community. It is also often used by non-vegans wishing to label animal-friendly products and nonviolent lifestyles as highly differentiated and undesirable compared to what is normal or mainstream. Due to the term's polarizing nature and association with publicity-seeking activism, it is not used by people or organizations working toward progress on issues related to animals and the environment.
+The term vegan is used by activists and marketers in efforts to appeal to the vegan community. It is also often used by consumers to position animal-friendly products and nonviolent lifestyles as extreme, highly differentiated, or socially undesirable. Due to the term's polarizing nature and association with publicity-seeking activism, it is not used in public-facing contexts by people or organizations working toward progress on issues related to animal welfare and the environment.
+
+Revealed intent: Any time the tern vegan is used in a public-facing context to discuss issues related to animal welfare or sustainability, it represents a tradeoff prioritizing the career or social interests of the communicator at the cost of alienating broader audiences from seriously considering those topics. 

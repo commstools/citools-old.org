@@ -41,7 +41,7 @@ The objective that is demonstrated or *revealed* by a communication activity.
 
 "Talk is cheap... Actions speak louder than words... Put your money where your mouth is." These expressions all refer to a common phenomenon: Behavior often reveals different motivations, values, and priorities than what is said in conversations, surveys, interviews, op-eds, speeches, presentations, and mission statements. In fact, there is an entire discipline called microeconomics that exists largely to study how actors in any system make decisions by modeling and observing what they do, rather than merely what they say.
 
-In order to effectively utilze this toolkit, one must practice evaluating disparities between revealed intentions or priorities and those stated by the communicating individual or organization.
+In order to effectively utilze this toolkit, one must practice evaluating disparities between revealed intentions or priorities and those stated by the communicating individual or organization. In many cases, the opening sentences of an op-ed reveal quickly whether the author is adding partisanship to a space for personal gain or genuinely contributing to a better information environment.
 
 ## Rigorous neutrality
 Diligent implementation of standards and careful monitoring of communication outputs.
