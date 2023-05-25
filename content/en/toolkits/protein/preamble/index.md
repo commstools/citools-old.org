@@ -11,7 +11,7 @@ toc: true
 weight: 10
 ---
 
-Our relationship with protein is arguably the most fundamental and impactful determinant of how our world is and will be in the future. That is why it is so important to build communication tools and information environments that foster critical reasoning, scientific literacy, and which discourage social tribalism around protein-related topics.
+Our relationship with protein is arguably the most fundamental and impactful determinant of how our world is and will be in the future. That is why it is so important to build communication tools and information environments that foster critical reasoning, scientific literacy, and which discourage social tribalism around related topics.
 
 This toolkit is designed specifically for that purpose.
 
