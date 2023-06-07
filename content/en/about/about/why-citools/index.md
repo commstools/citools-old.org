@@ -15,19 +15,19 @@ toc: true
 
 Access to large-scale communications infrastructure used to be costly. For most of the past century, launching a print or broadcast media outlet required significant investments in physical and human capital. Only those with substantial financial resources could reach geographically diverse audiences. Print space was limted. Air time was scarce. This scarcity also meant companies and organizations often needed to spend large sums on traditional advertising in order to communicate with the public. Editorial coverage was like striking gold, hence the old adage "there's no such thing as bad publicity."
 
-The high capital requirements involved in mass communications also incentivized moderation of partisanship and potentially problematic messaging. Print and brodcast media outlets needed qualified team members to enforce editorial standards that would capture the largest audiences, while balancing the interests of investors, advertisers, and regulators. Similarly, businessees, organizatinos, and political entities were incentivized to optimze communications for broad impact and minimize risk of wasted or inefficient efforts.
+The high capital requirements involved in mass communications also incentivized moderation of partisanship and potentially problematic messaging. Print and brodcast media outlets needed qualified team members to enforce standards that would appeal to the largest audiences, while balancing the interests of investors, advertisers, and regulators. Similarly, businessees, organizatinos, and political entities were incentivized to optimze communications for broad impact and minimize risk of wasteful or inefficient campaigns.
 
-Today, there are viturally no barriers to entry. Anyone with a laptop or smartphone can communicate with the world. Anyone with an idea can launch a company or organization and reach millions with little or no capital.
+Today, there are viturally no barriers to entry. Anyone with a laptop or smartphone can communicate with the world. Anyone with an idea can launch a company or organization and reach millions with little or no capital. 
 
-Access to information and education has expanded to new levels. 
+[historical chart showing number of publications with more than 1m readers]
 
-Liberation of communication has disincentivized such moderation and enabled fringe and extreme communications. This means more brilliance 
+The low cost and easy access to modern digital communications infrastructure brings with it a complicated set of societal benefits and risks. 
 
-But at the same time, so has access to misinformation, that threaten to erode the insitutions that enable social stability and societal progress.
+Expanded access to information and education  enabling a wide array of societal changes. A the same time, low-cost, easy access to large audiences has also disincentivized moderation of partisan and 
 
-There are also fewer incentives to reduce partisanship in editorial and organizational communications. On the contrary, in modern online media, social media, and collaborative information environments, polarizing messaging is rewarded. 
+Liberation of communication has disincentivized such moderation and enabled fringe and extreme communications. This means more brilliance. But at the same time, so has access to misinformation, that threaten to erode the insitutions that enable social stability and societal progress.
 
-Reaching a large audience also demanded careful consideration in order balance the interests of investors, advertisers, regulators, and consumers. That meant moderating partisanship 
+There are also fewer incentives to reduce partisanship in editorial and organizational communications. On the contrary, with low costs modern online media, social media, and collaborative information environments reward polarizing messaging. 
 
 PR departments, specialized agencies, or designated team members used to be solely responsible for 
 
@@ -46,8 +46,6 @@ People are the most important asset of any organization. The ideas, perspectives
 Organizations are defined by missions, standards, and structures; they may also have commitments to the public or specific groups to which they are responsible.
 
 Individual team members, on the other hand, can be far more varied and dynamic.
-
-
 
 ### The solution is standards
 CITools provides well-defined standards and a mechanism to ensure their implementation. 
