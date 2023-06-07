@@ -29,12 +29,6 @@ Print and broadcast media outlets have also been forced compete in the digital s
 
 Populism, anti-science ideologies, and the new wave of politicians may just be a period of adolescence the world must go through as it adapts to newly free communications technologies. But how it is treated and understood may affect how we come out on the other side. Some may argue for a lasse faire approach to innovation, invoking high-minded long term views of evolution at any cost. These views are especially appealing to subscribers to ideologies such as libertarianism, social darwinism, and other flavors of religious psychology. They merely mask a lack of critical reasoning. 
 
-A the same time, low-cost, easy access to large audiences has also disincentivized moderation of partisan and 
-
-Liberation of communication has disincentivized such moderation and enabled fringe and extreme communications. This means more brilliance. But at the same time, so has access to misinformation, that threaten to erode the insitutions that enable social stability and societal progress.
-
-There are also fewer incentives to reduce partisanship in editorial and organizational communications. On the contrary, with low costs modern online media, social media, and collaborative information environments reward polarizing messaging. 
-
 PR departments, specialized agencies, or designated team members used to be solely responsible for 
 
 Lasse faire embracing of a marketplace of ideas with faith that the best ones will win. This type of faith-based position, though cannot be disproved, is high risk and often a cop out for a failure to think critically or prioritize things over social incentivies. 
