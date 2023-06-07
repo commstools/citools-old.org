@@ -1,4 +1,4 @@
-baseurl = "https://citools.netlify.app/"
+baseurl = "https://citools.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
