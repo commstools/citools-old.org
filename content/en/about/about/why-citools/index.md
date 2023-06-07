@@ -21,7 +21,9 @@ Today, there are viturally no barriers to entry. Anyone with access to a compute
 
 [historical chart showing number of publications with more than 1m readers]
 
-Low cost, easy access to modern digital communications infrastructure brings with it a complicated set of societal benefits and risks. Information and education are more readily available across diverse geographies and demographics, promising greater equality of opportunity and forcing transparency and accountability in governance. Intellectual and analytical perspectives can more easily gain exposure, offering the potential for a more meritocratic marketplace of ideas. At the same time, there are fewer incentives to moderate partisan and polarizing communications. On the contrrary, modern online media, social media, and collbaorative information environments often reward extreme voices and personalities. 
+This low-cost, easy access to modern digital communications infrastructure brings with it a complicated set of societal benefits and risks. Information and education are more readily available across diverse geographies and demographics, promising greater equality of opportunity and forcing transparency and accountability in governance. Intellectual and analytical perspectives can more easily gain exposure, offering the potential for a more meritocratic marketplace of ideas.
+
+At the same time, there are fewer incentives to moderate partisan communications. On the contrrary, modern online media, social media, and collbaorative information environments often reward extreme voices and personalities. Misinformation, beliefs, and ideologies that can erode civil insitutions and threaten social stability spread faster than ever and gain legitmacy in political dialogues. 
 
 Print and broadcast media outlets have also been forced compete in the digital space, eroding their previous commitments to neutrality and broad appeal in favor of partisan audiences.
 
