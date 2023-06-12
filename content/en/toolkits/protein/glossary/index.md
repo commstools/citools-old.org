@@ -58,6 +58,9 @@ Refers broadly to both hazards and the probabilities of their occurance.
 ### Political risk
 Refers to the risk that leaders may face in their careers, business, or policy objectives by engaging on an issue. 
 
+### Social currency
+
+
 ### Social risk
 Refers to social and cultural resistance to engage or give fair consideration to a topic.
 

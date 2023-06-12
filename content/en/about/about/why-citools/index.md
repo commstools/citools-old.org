@@ -13,17 +13,21 @@ toc: true
 
 ### Modern challenges
 
-Access to large-scale communications infrastructure used to be costly. For most of the past century, launching a print or broadcast media outlet required significant investments in physical and human capital. Only a few could reach geographically diverse audiences. Print space was limted. Air time was scarce. This meant companies and organizations often needed to spend large sums on traditional advertising in order to communicate with the public. In this envirtonment, editorial coverage--good or bad--at least meant exposure, hence the old adage "there's no such thing as bad publicity."
+Access to large-scale communications infrastructure used to be costly. For most of the past century, launching a print or broadcast media outlet required significant investments in physical and human capital. Only a few could reach geographically diverse audiences, and among those, print space and air time were limted. Today, there are viturally no barriers to entry--anyone with access to a computer or smartphone can communicate with the world. This low-cost, easy access to modern digital communications infrastructure brings with it a complicated set of societal benefits and risks:
+
+**Benefit:** Information and education are more readily available across diverse geographies and demographics, promising greater equality of opportunity and forcing transparency and accountability in governance. Intellectual and analytical perspectives can more easily gain exposure, offering the potential for a more meritocratic marketplace of ideas.
+
+**Risk:** At the same time, there are fewer incentives to moderate partisan communications. On the contrary, online media, social media, and collbaorative information environments often reward polarization and tribalism in communications. Misinformation, beliefs, and ideologies that can erode civil insitutions and threaten social stability spread quickly and gain legitmacy in political dialogues.
+
+This scarcity meant companies and organizations often needed to spend large sums on traditional advertising in order to communicate with the public. In such an envirtonment, editorial coverage--good or bad--at least offered exposure, hence the old adage "there's no such thing as bad publicity."
 
 High capital requirements also incentivized moderation. Print and brodcast media outlets competing for mainstream audiences needed qualified team members to enforce standards accordingly, while balancing the interests of investors, advertisers, and regulators. Similarly, businessees, organizations, and political entities were incentivized to craft messaging for broad impact to minimize risk of costly campaign activities. This structure did not always support high standards for truth, but it did foster a degree of moderation in mass communications, and in turn, among audiences.
 
-Today, there are viturally no barriers to entry. Anyone with access to a computer or smartphone can communicate with the world. Anyone with an idea can launch a company or organization and reach millions with little or no capital. 
+ Anyone with an idea can launch a company or organization and reach millions with little or no capital. 
 
 [historical chart showing number of publications with more than 1m readers]
 
-This low-cost, easy access to modern digital communications infrastructure brings with it a complicated set of societal benefits and risks. Information and education are more readily available across diverse geographies and demographics, promising greater equality of opportunity and forcing transparency and accountability in governance. Intellectual and analytical perspectives can more easily gain exposure, offering the potential for a more meritocratic marketplace of ideas.
-
-At the same time, there are fewer incentives to moderate partisan communications. On the contrary, online media, social media, and collbaorative information environments often reward extreme voices and personalities. Misinformation, beliefs, and ideologies that can erode civil insitutions and threaten social stability spread faster than ever and gain legitmacy in political dialogues. 
+ 
 
 Print and broadcast media outlets have also been forced compete in the digital space, eroding their previous commitments to neutrality and broad appeal in favor of partisan audiences.
 
