@@ -29,7 +29,7 @@ Today, the primary requirement for achieving foundational scientific literacy is
 
 This is most clearly revealed by looking a topic for which consensus belifs and behaviors are in stark contrast to elementary logic and abundant evidence--protein.
 
-In order to maintain basic integrity of the meaning of science as a tool, it has become necessary to reject usages that refer to social movements or philosophies that ignore or invert foundational principles of science the tool. One approach to doing so is to adopt and encourage communications standards, such as those on citools.org. Another approach is to qualify the term in order to differentiate the tool from the social movement, as is done by rational science.
+In order to maintain basic integrity of the meaning of science as a tool, it has become necessary to reject usages that refer to social movements or philosophies that ignore or invert foundational principles of science. One approach to doing so is to adopt and encourage communications standards, such as those on citools.org. Another approach is to qualify the term in order to differentiate the tool from the social movement, as is done by rational science.
 
 The pillars of science--logic and evidence
 The scientific method combines logic and evidence into an effective tool for understanding the mechanisms of natural phenomenea. A scientific understanding of any topic 
