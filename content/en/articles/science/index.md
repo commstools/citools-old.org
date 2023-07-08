@@ -14,7 +14,7 @@ pinned: false
 homepage: false
 ---
 
-Notes for a new toolkit for science communication and communication about science.
+Notes for a new toolkit on science communication and communication about science.
 
 Scientific literacy doesn't mean simply getting a degree and learning to apply some scientific tools and techniquies in one's work. It means understanding the principles and concepts that make those tools scientific and being able to apply them in more general contexts.
 
