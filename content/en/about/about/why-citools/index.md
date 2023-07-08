@@ -19,6 +19,8 @@ Access to large-scale communications infrastructure used to be costly. For most 
 
 **Risk:** At the same time, there are fewer incentives to moderate partisan communications. On the contrary, online media, social media, and collbaorative information environments often reward polarization and tribalism in communications. Misinformation, beliefs, and ideologies that can erode civil insitutions and threaten social stability spread quickly and gain legitmacy in political dialogues.
 
+### 
+
 This scarcity meant companies and organizations often needed to spend large sums on traditional advertising in order to communicate with the public. In such an envirtonment, editorial coverage--good or bad--at least offered exposure, hence the old adage "there's no such thing as bad publicity."
 
 High capital requirements also incentivized moderation. Print and brodcast media outlets competing for mainstream audiences needed qualified team members to enforce standards accordingly, while balancing the interests of investors, advertisers, and regulators. Similarly, businessees, organizations, and political entities were incentivized to craft messaging for broad impact to minimize risk of costly campaign activities. This structure did not always support high standards for truth, but it did foster a degree of moderation in mass communications, and in turn, among audiences.

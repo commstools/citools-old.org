@@ -12,7 +12,7 @@ toc: true
 ---
 
 ### What is CITools
-CITools is a collection of tools and resources for improving how information is shared in modern environments. It provides a generalized approach to understanding and evaluating communication integrity, as well as a collection of toolkits for optimizing communications related to specific topics.
+CITools is a collection of tools and resources for improving how dialogues are formed and information is shared in modern environments. It provides a generalized approach to understanding and evaluating communication integrity, as well as a collection of toolkits for optimizing communications related to specific topics.
 
 ### What is communication integrity
 Communication integrity refers to a message or activity's quality of fitness for a stated purpose. To evaluate the integrity of a particular communication activity, one can simply ask: "does it help achieve the stated aim of the communicator?" When there is a significant difference between the stated aim and fitness of an activity for achieving that aim, it is said to be of low CI. It is important to note this outcome is not always intentional. See the [FAQ](/about/faq) for some common examples and causes of low-CI activities.
