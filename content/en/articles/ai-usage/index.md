@@ -31,7 +31,7 @@ Ocassionally, we receive drafts from techincal experts that are rich in insight 
 
 Preamble
 
-Artificial intelligence performs better than humans at many tasks. But fundamental flaws can be built into the logic of such programs, reflecting human biases and false understandings of important topics. A good article on why this is the case is The New Science of Alt Intelligence by Gary Marcus.
+Artificial intelligence performs better than humans at many tasks. But fundamental flaws can be built into the logic of such programs, reflecting human biases and flawed understandings of important topics. A good article on why this is the case is The New Science of Alt Intelligence by Gary Marcus.
 
 Editorial publications that focus on advancing human thinking and behavior and related policies and technological applications, such as ai, still need to be informed by unbiased reasoning--not models based on consensus opinions and popular dialogues.
 
