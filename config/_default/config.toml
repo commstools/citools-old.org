@@ -1,4 +1,4 @@
-baseurl = "https://citools.org/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
